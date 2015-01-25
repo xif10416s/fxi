@@ -22,6 +22,7 @@ public class BigObjIntoOld {
 
     private final static int ONE_MB = 1024*1024;
 
+    private final static int ONE_MB3 = 1024*1024;
  
 
     /**
