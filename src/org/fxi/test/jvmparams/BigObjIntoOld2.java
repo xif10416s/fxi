@@ -57,6 +57,7 @@ public class BigObjIntoOld {
     /**
      * 没有触发GC日志，而数据是直接进入老生代的
      */
+    //aaa
  
 
 }
